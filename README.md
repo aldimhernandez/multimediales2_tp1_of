@@ -1,12 +1,18 @@
 # multimediales2_tp1_of
 Aura v1.0 - Trabajo Práctico N°1 - Artes Multimediales 2 - Aplicación Interactiva en OpenFrameworks
 
-Idea Proyecto: Vicente Cuadros. 
-Idea Interfaz e Interactividad: María Aldana Hernández. 
-Trabajo Audiovisual: (sonidos y video final) - Vicente Cuadros. 
-Efectos de sonido: descargados de freesounds.org. 
-Diseño bocetos imágenes 2D: Lucia Krasñansky. 
-Diseño visual imagenes cassettes y clues: María Aldana Hernández. 
+Idea Proyecto: Vicente Cuadros.
+
+Idea Interfaz e Interactividad: María Aldana Hernández.
+
+Trabajo Audiovisual: (sonidos y video final) - Vicente Cuadros.
+
+Efectos de sonido: descargados de freesounds.org.
+
+Diseño bocetos imágenes 2D: Lucia Krasñansky.
+
+Diseño visual imagenes cassettes y clues: María Aldana Hernández.
+
 Programación y testeo: María Aldana Hernández.
 
 El video final fue removido debido a la advertencia de github en cuanto al peso limite de 50mb.
